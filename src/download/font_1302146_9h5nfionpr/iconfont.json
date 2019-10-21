@@ -1,0 +1,79 @@
+{
+  "id": "1302146",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "116120",
+      "name": "移动app写消息",
+      "font_class": "yidongappxiexiaoxi",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "383685",
+      "name": "实五角星",
+      "font_class": "shiwujiaoxing",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "1317820",
+      "name": "沟通页_三条杠_跳转选择孩子",
+      "font_class": "goutongye_santiaogang_tiaozhuanxuanzehaizi",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "1517569",
+      "name": "点点",
+      "font_class": "diandian",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "2076196",
+      "name": "赞",
+      "font_class": "zan",
+      "unicode": "e870",
+      "unicode_decimal": 59504
+    },
+    {
+      "icon_id": "4266160",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "4685770",
+      "name": "信息",
+      "font_class": "Group-",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "6129080",
+      "name": "43指向左、左箭头",
+      "font_class": "zhixiangzuozuojiantou",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "6723277",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "8288863",
+      "name": "铃",
+      "font_class": "ling",
+      "unicode": "e850",
+      "unicode_decimal": 59472
+    }
+  ]
+}
